@@ -1,0 +1,24 @@
+{
+  "name": "iion-pay",
+  "owner": {
+    "name": "iion pay",
+    "url": "https://iionpay.com"
+  },
+  "metadata": {
+    "description": "Marketplace de iion pay para Claude Code"
+  },
+  "plugins": [
+    {
+      "name": "iion-pay",
+      "source": "./",
+      "description": "Consulta tu negocio de iion pay desde Claude Code: ventas del día, cobros sin pagar y conciliación.",
+      "version": "0.1.0",
+      "author": {
+        "name": "iion pay",
+        "url": "https://iionpay.com"
+      },
+      "homepage": "https://iionpay.com",
+      "license": "MIT"
+    }
+  ]
+}

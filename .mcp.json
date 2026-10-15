@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "iion-pay": {
+      "type": "http",
+      "url": "https://api.prod.niiopay.com/api/v1/mcp"
+    }
+  }
+}

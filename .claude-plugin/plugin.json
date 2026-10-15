@@ -1,0 +1,12 @@
+{
+  "name": "iion-pay",
+  "description": "Consulta tu negocio de iion pay desde Claude Code: ventas del día, cobros sin pagar y conciliación. Servidor MCP remoto con inicio de sesión en el navegador (OAuth); no hay nada que instalar localmente.",
+  "version": "0.1.0",
+  "author": {
+    "name": "iion pay",
+    "url": "https://iionpay.com"
+  },
+  "homepage": "https://iionpay.com",
+  "repository": "https://github.com/techniiopay/claude-plugin",
+  "license": "MIT"
+}
