@@ -2,7 +2,7 @@
   "mcpServers": {
     "iion-pay": {
       "type": "http",
-      "url": "https://api.prod.niiopay.com/api/v1/mcp"
+      "url": "https://mcp.iionpay.com/api/v1/mcp"
     }
   }
 }

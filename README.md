@@ -9,7 +9,7 @@ computador: el servidor corre en la nube.
 
 ## Qué incluye
 
-- **Servidor MCP remoto** `https://api.prod.niiopay.com/api/v1/mcp`, con inicio de sesión OAuth.
+- **Servidor MCP remoto** `https://mcp.iionpay.com/api/v1/mcp`, con inicio de sesión OAuth.
 - **4 skills** que guían las consultas:
 
 | Skill | Para qué sirve | Permiso |
